@@ -4,10 +4,10 @@ body{
 
 }
 
-#form{
+.form{
    text-align: center;
    padding-top: 75px;
-
+    
 }
 
 #cadastre {
@@ -23,6 +23,16 @@ a{
 
 }
 
+#botentrar{
+    color: aliceblue;
+    background-color: black;
+    margin-top: 50px;
+    height: 35px;
+    width: 55px;
+
+
+}
+
 #fichario{
    padding-left: 150px;
    padding-top: 50px;
@@ -30,7 +40,12 @@ a{
 }
 
 #botaocad{
-   margin-left: 80%;
+    height: 50px;
+    width: 90px; ;
+    margin-left: 80%;
+    font-size: 1.0rem;
+    color: aliceblue;
+    background-color: black;
 
 }
 
@@ -40,8 +55,20 @@ a{
     margin-top: -20px;
 
 }
-#h2{
+.h2{
     text-align: center;
     font-size: 30px;
 
 }
+#enviaresquec{
+    height: 50px;
+    width: 90px; ;
+    margin-left: 80%;
+    font-size: 1.0rem;
+    margin-top: 200px;
+    color: aliceblue;
+    background-color: black;
+
+}
+
+
