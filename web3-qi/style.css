@@ -1,0 +1,47 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif  ;
+
+}
+
+#form{
+   text-align: center;
+   padding-top: 75px;
+
+}
+
+#cadastre {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+a{
+    text-decoration: none; 
+    color: black;
+    text-decoration: underline;
+
+}
+
+#fichario{
+   padding-left: 150px;
+   padding-top: 50px;
+   font-size: 20px;
+}
+
+#botaocad{
+   margin-left: 80%;
+
+}
+
+.caixa{
+    display:flex;
+    margin-left: 100px;
+    margin-top: -20px;
+
+}
+#h2{
+    text-align: center;
+    font-size: 30px;
+
+}
